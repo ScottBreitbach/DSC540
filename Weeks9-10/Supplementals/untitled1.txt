@@ -1,0 +1,40 @@
+<div class="item-container"><a class="item-img combo-img-0"
+        href="https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190581"><img
+            alt="GIGABYTE GeForce RTX 3070 DirectX 12 GV-N3070GAMING OC-8GD 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card + GIGABYTE GP-P750GM 750W ATX 12V v2.31 80 PLUS GOLD Certified Full Modular Active PFC Power Supply"
+            class=""
+            src="https://c1.neweggimages.com/ProductImageCompressAll300/combo4190581.jpg"
+            title="GIGABYTE GeForce RTX 3070 DirectX 12 GV-N3070GAMING OC-8GD 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX Video Card + GIGABYTE GP-P750GM 750W ATX 12V v2.31 80 PLUS GOLD Certified Full Modular Active PFC Power Supply" /></a>
+    <div class="item-info"><a class="item-title"
+            href="https://www.newegg.com/Product/ComboDealDetails?ItemList=Combo.4190581"
+            title="View Details">GIGABYTE GeForce RTX 3070 DirectX 12
+            GV-N3070GAMING OC-8GD 8GB 256-Bit GDDR6 PCI Express 4.0 x16 ATX
+            Video Card + GIGABYTE GP-P750GM 750W ATX 12V v2.31 80 PLUS GOLD
+            Certified Full Modular Active PFC Power Supply</a>
+        <p class="item-promo"><i class="item-promo-icon"></i>OUT OF STOCK</p>
+    </div>
+    <div class="item-action">
+        <ul class="price">
+            <li class="price-was"><span class="price-was-data">$879.98</span>
+            </li>
+            <li class="price-map"> </li>
+            <li class="price-current"><span
+                    class="price-current-label"></span>$<strong>849</strong><sup>.98</sup>
+                <span class="price-current-range"><abbr
+                        title="to">–</abbr></span></li>
+            <li class="price-save"><span class="price-save-label">Combo save:
+                </span><span class="price-save-dollar">$30.00</span><span
+                    class="price-save-percent"></span></li>
+            <li class="price-note"><span
+                    class="price-note-dollar">$829.98</span><span
+                    class="price-note-label"> after </span><span
+                    class="price-note-dollar">$20.00</span><span
+                    class="price-note-label"> rebate</span></li>
+            <li class="price-ship"></li>
+        </ul>
+        <div class="item-operate">
+            <div class="item-button-area"><button class="btn btn-mini"
+                    title="View Details ">View Details <i
+                        class="fas fa-caret-right"></i></button></div>
+        </div>
+    </div>
+</div>
